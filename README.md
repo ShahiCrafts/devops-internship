@@ -1,5 +1,5 @@
 # DevOps Internship
-Started: $(date)
+Started: 2026-04-09
 Student: Saugat Shahi
 
 ## Structure
